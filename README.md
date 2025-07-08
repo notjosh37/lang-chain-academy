@@ -14,7 +14,7 @@ graphs that we will explore using the LangGraph API and Studio.
 ### Python version
 
 To get the most out of this course, please ensure you're using Python 3.11 or later. 
-This version is required for optimal compatibility with LangGraph. If you're on an older version, 
+xThis version is required for optimal compatibility with LangGraph. If you're on an older version, 
 upgrading will ensure everything runs smoothly.
 ```
 python3 --version
